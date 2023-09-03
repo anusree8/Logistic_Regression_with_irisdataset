@@ -1,6 +1,6 @@
-# Logistic_Regression_with_irisdataset
+# Logistic_Regression_with_iris_dataset
 
-The Iris dataset taken from SKlearn is used to create this Logistic Regression model.
+Hear we use the Iris dataset taken from SKlearn to create this Logistic Regression model.
 
 # Problem Description
 
